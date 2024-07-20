@@ -1,0 +1,42 @@
+.input-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1em;
+    text-align: left;
+    background-color: #f9f9f9;
+  }
+  
+  .input-table th,
+  .input-table td {
+    border: 1px solid #dddddd;
+    padding: 0;
+  }
+  
+  .input-table thead th {
+    background-color: #f2f2f2;
+  }
+  
+  .table-input {
+    width: 100%;
+    height: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: none;
+  }
+  
+  .remove-button,
+  .add-button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .remove-button:hover,
+  .add-button:hover {
+    background-color: #0056b3;
+  }
+  

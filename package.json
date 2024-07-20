@@ -1,0 +1,18 @@
+{
+  "name": "inputtable",
+  "version": "1.0.1",
+  "description": "Input Table is a liberary where you can add data in table rows.",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "InputTable",
+    "Table"
+  ],
+  "peerDependencies": {
+    "react": "@"
+  },
+  "author": "Basit Ahmed",
+  "license": "ISC"
+}
